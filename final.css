@@ -1,0 +1,35 @@
+img{
+    width: 50%;
+    padding: 5px;
+}
+#title{
+    color: darkslategrey;
+    text-align: center;
+    border: 5px solid lightskyblue;
+}
+.para{
+    text-align: justify;
+    padding: 5px;
+}
+.para2{
+    text-align: justify;
+    padding: 5px;
+}
+
+.place{
+    padding: 5px;
+}
+.article{
+    border: 3px solid lightgreen;
+    padding: 5px;
+    margin: 5px;
+}
+*{
+   padding: 5px;
+
+}
+#form{
+    border: 2px solid deepskyblue;
+    padding: 5px;
+    width: fit-content;
+}
