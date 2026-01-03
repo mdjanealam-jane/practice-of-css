@@ -1,11 +1,11 @@
 img{
-    width: 50%;
+    width: auto;
     padding: 5px;
 }
 #title{
     color: darkslategrey;
     text-align: center;
-    border: 5px solid lightskyblue;
+    border: 5px solid darkcyan;
 }
 .para{
     text-align: justify;
@@ -20,16 +20,19 @@ img{
     padding: 5px;
 }
 .article{
-    border: 3px solid lightgreen;
+    border: 3px solid darkolivegreen;
     padding: 5px;
     margin: 5px;
 }
 *{
    padding: 5px;
+   background-color: lightsteelblue;
 
 }
 #form{
-    border: 2px solid deepskyblue;
+    border: 3px solid darkslategrey;
+    margin: 5px;
+    margin-top: 100px;
     padding: 5px;
-    width: fit-content;
+
 }
